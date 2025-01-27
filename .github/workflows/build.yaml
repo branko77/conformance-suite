@@ -43,4 +43,4 @@ jobs:
 
       - name: Upload image
         run: |
-          docker push conformance-suite
+          docker push brankom77/conformance-suite:tagname
